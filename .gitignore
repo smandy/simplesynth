@@ -35,3 +35,6 @@
 /simpleSynth/Builds/LinuxMakefile/pre_build/
 /simpleSynth/JuceLibraryCode/
 *~
+/simpleSynth2/JuceLibraryCode/
+/simpleSynth2/Builds/LinuxMakefile/build/
+/simpleSynth2/Builds/LinuxMakefile/pre_build/
